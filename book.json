@@ -1,0 +1,45 @@
+{
+  "title": "聊聊包管理这件事",
+  "description":"yum介绍", 
+  "language" : "zh-hans",
+  "links" : {
+     "sidebar" : {
+     }
+  },
+  "plugins": [
+      "highlight",
+      "github",
+      "splitter",
+      "toggle-chapters",
+      "-search"
+  ],
+  "pluginsConfig": {
+  	"github": {
+        "url": "https://github.com/iyw/yum-share"
+    },
+	"sharing": {
+            "douban": false,
+            "facebook": true,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": true,
+            "messenger": false,
+            "pocket": true,
+            "qq": false,
+            "qzone":true,
+            "stumbleupon": false,
+            "twitter": true,
+            "viber": false,
+            "vk": false,
+            "weibo": false,
+            "whatsapp": false,
+            "all": [
+                "facebook", "google", "twitter",
+                "weibo", "instapaper", "linkedin",
+                "pocket", "stumbleupon"
+            ]
+        }
+  }
+}
