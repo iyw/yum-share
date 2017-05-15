@@ -8,6 +8,7 @@
  - [3.rpm常用命令](rpm/rpm.md)
  - [4.yum工作原理及常用命令](rpm/yum.md)
 * [三.In Work](work/rpm.md)
+* [四 脚本](work/expect.md)
  
 
 
